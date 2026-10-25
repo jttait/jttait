@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- ⌨️ [keyboard](https://github.com/jttait/keyboard)
+- 🐚 [shell_scripts](https://github.com/jttait/shell_scripts)
+
 <!--
 Here are some ideas to get you started:
 
