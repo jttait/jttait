@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⌨️ [keyboard](https://github.com/jttait/keyboard)
+- ⌨️ [keyboard](https://github.com/jttait/keyboard) - keymaps and vial files for keyboards
 - 🐚 [shell_scripts](https://github.com/jttait/shell_scripts)
 
 <!--
