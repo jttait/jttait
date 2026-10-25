@@ -2,6 +2,7 @@
 
 - ⌨️ [keyboard](https://github.com/jttait/keyboard) - keymaps and vial files for keyboards
 - 🐚 [shell_scripts](https://github.com/jttait/shell_scripts)
+- [arduino](https://github.com/jttait/arduino)
 
 <!--
 Here are some ideas to get you started:
