@@ -4,6 +4,7 @@
 - 🐚 [shell_scripts](https://github.com/jttait/shell_scripts)
 - [arduino](https://github.com/jttait/arduino) - programs for arduino microcontroller
 - [coding_problems](https://github.com/jttait/coding_problems) - solutions to coding problems (mainly advent of code)
+- [calculator](https://github.com/jttait/calculator) - calculator app
 
 <!--
 Here are some ideas to get you started:
